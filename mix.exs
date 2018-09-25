@@ -42,8 +42,9 @@ defmodule Rumbl.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:cowboy, "~> 1.0"},
-      {:comeonin, "~> 4.1"},
+      {:comeonin, "~> 4.1.1"},
       {:pbkdf2_elixir, "~> 0.12"},
+      {:bcrypt_elixir, "~> 1.0"}
     ]
   end
 
